@@ -1,2 +1,5 @@
 rootProject.name = "Tday & Byond"
 include ':app'
+include ':usecases'
+include ':data'
+include ':domain'
